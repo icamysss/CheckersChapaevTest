@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Checkers Chapaev-0.1.0";
 const contentToCache = [
-    "Build/Build.loader.js",
-    "Build/Build.framework.js.unityweb",
-    "Build/Build.data.unityweb",
-    "Build/Build.wasm.unityweb",
+    "Build/CheckersChapaevTest.loader.js",
+    "Build/CheckersChapaevTest.framework.js.unityweb",
+    "Build/CheckersChapaevTest.data.unityweb",
+    "Build/CheckersChapaevTest.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
